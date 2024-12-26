@@ -37,7 +37,6 @@ class Program
 
                 if(operator2 == "*")
                     return temp * num3;
-
                 else if (operator2 == "+")
                     return temp + num3;
                 else
